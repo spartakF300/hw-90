@@ -4,7 +4,7 @@ import './App.css';
 class App extends React.Component {
     state = {
         draw: [],
-        color: '#000'
+        color: '#000000'
     };
 
     componentDidMount() {
